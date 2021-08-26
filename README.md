@@ -5,5 +5,5 @@
 3) create into <b>example-gradle-kotang</b>  modul spring boot -> <a href="https://github.com/Sveticov/example-gradle-kotang/blob/master/server/build.gradle.kts"> look at here</a> example-gradle-kotang/server/build.gradle.kts
 4) write all plagins and setting in gradle angular and spring
 5) write setting in<b>example-gradle-kotang</b>  <a href="https://github.com/Sveticov/example-gradle-kotang/blob/master/settings.gradle"> look at here</a> example-gradle-kotang/settings.gradle
-6) execute command <b>terminal</b> <h5>gradlew clean build</h5>
+6) execute command <b>terminal</b> <h5>gradlew wrapping and gradlew clean build</h5>
 7) start jar file "java -jar <b>example-gradle-kotang</b>.jar"
